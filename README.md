@@ -10,7 +10,8 @@
 # Libraries
 1. OpenFST
 2. Kaldi
-3. 
+3. Librosa [link](https://github.com/librosa/librosa), TorchLibrosa [link](https://github.com/qiuqiangkong/torchlibrosa)
+4. 
 
 # Benchmarks
 1. x
