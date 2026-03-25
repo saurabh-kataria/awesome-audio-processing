@@ -12,7 +12,7 @@
 1. OpenFST
 2. Kaldi
 3. Librosa [link](https://github.com/librosa/librosa), TorchLibrosa [link](https://github.com/qiuqiangkong/torchlibrosa)
-4. 
+4. Pyannote [link](https://github.com/pyannote/pyannote-audio)
 
 # Benchmarks
 1. x
