@@ -7,6 +7,7 @@
 2. COMS 6998: Advanced Topics in Spoken Language Processing (http://www.cs.columbia.edu/~julia/courses/CS6998-23/syllabus23.html)
 3. Hugging face Audio course [link](https://huggingface.co/learn/audio-course/chapter0/introduction)
 4. Dialogue Systems UFAL [link](https://ufal.mff.cuni.cz/courses/npfl123/2024#lectures_)
+5. TTS [link](https://www.youtube.com/watch?v=_MFrEYPdEn8&t=628s)
 
 # Libraries
 1. OpenFST
