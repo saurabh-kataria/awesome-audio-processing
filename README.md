@@ -19,6 +19,7 @@
 8. Espnet [link](https://github.com/espnet/espnet)
 9. speechbrain [link](https://github.com/speechbrain/speechbrain)
 10. Audacity [link](https://www.audacityteam.org/)
+11. Icefall K2 Lhotse [link](https://github.com/k2-fsa/icefall) [link](https://github.com/k2-fsa/k2) [link](https://github.com/lhotse-speech/lhotse)
 
 # Datasets
 1. **AudioSet** - Gemmeke, Jort F., et al. "**Audio set: An ontology and human-labeled dataset for audio events**." 2017 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2017.
