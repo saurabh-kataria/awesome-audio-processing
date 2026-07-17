@@ -6,6 +6,7 @@
 3. Hugging face Audio course [link](https://huggingface.co/learn/audio-course/chapter0/introduction)
 4. Dialogue Systems UFAL [link](https://ufal.mff.cuni.cz/courses/npfl123/2024#lectures_)
 5. TTS [link](https://www.youtube.com/watch?v=_MFrEYPdEn8&t=628s)
+6. Automatic Speech Recognition [link](https://opencourse.inf.ed.ac.uk/asr/lectures)
 
 # Softwares
 1. OpenFST
@@ -14,6 +15,10 @@
 4. Pyannote [link](https://github.com/pyannote/pyannote-audio)
 5. Montreal Forced Aligner (MFA) [link](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner)
 6. Torchaudio [link](https://github.com/pytorch/audio)
+7. Praat [link](https://praat.org/)
+8. Espnet [link](https://github.com/espnet/espnet)
+9. speechbrain [link](https://github.com/speechbrain/speechbrain)
+10. Audacity [link](https://www.audacityteam.org/)
 
 # Datasets
 1. **AudioSet** - Gemmeke, Jort F., et al. "**Audio set: An ontology and human-labeled dataset for audio events**." 2017 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2017.
