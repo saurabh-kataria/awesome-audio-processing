@@ -21,6 +21,17 @@
 10. Audacity [link](https://www.audacityteam.org/)
 11. Icefall K2 Lhotse [link](https://github.com/k2-fsa/icefall) [link](https://github.com/k2-fsa/k2) [link](https://github.com/lhotse-speech/lhotse)
 12. Librosa [link](https://librosa.org/doc/main/index.html)
+13. OpenSMILE [link](https://audeering.github.io/opensmile-python)
+14. FFmpeg [link](https://www.ffmpeg.org/)
+15. WeSpeaker [link](https://github.com/wenet-e2e/wespeaker)
+16. Essentia [link](https://github.com/MTG/essentia)
+17. NVIDIA NeMo Speech [link](https://github.com/NVIDIA-NeMo/Speech)
+18. Asteroid [link](https://github.com/asteroid-team/asteroid)
+
+# Dataset repositories
+1. OpenSLR [link](https://openslr.org/)
+2. ML Commons [link](https://mlcommons.org/datasets/)
+3. Hugging face datasets
 
 # Datasets
 1. **AudioSet** - Gemmeke, Jort F., et al. "**Audio set: An ontology and human-labeled dataset for audio events**." 2017 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2017.
