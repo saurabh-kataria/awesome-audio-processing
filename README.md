@@ -7,6 +7,7 @@
 4. Dialogue Systems UFAL [link](https://ufal.mff.cuni.cz/courses/npfl123/2024#lectures_)
 5. TTS [link](https://www.youtube.com/watch?v=_MFrEYPdEn8&t=628s)
 6. Automatic Speech Recognition [link](https://opencourse.inf.ed.ac.uk/asr/lectures)
+7. Speech Signal Processing, IIT Kanpur [link](http://ee627a.wikidot.com/)
 
 # Softwares
 1. OpenFST
