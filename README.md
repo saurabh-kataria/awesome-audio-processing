@@ -28,6 +28,8 @@
 16. Essentia [link](https://github.com/MTG/essentia)
 17. NVIDIA NeMo Speech [link](https://github.com/NVIDIA-NeMo/Speech)
 18. Asteroid [link](https://github.com/asteroid-team/asteroid)
+19. ELAN [link](https://archive.mpi.nl/tla/elan)
+20. Hyperion [link](https://github.com/hyperion-ml/hyperion)
 
 # Dataset repositories
 1. OpenSLR [link](https://openslr.org/)
