@@ -13,6 +13,7 @@
 10. Deep Learning for Audio — AI Masters [link](https://github.com/severilov/DL-Audio-AIMasters-Course)
 11. YSDA Speech Processing Course [link](https://github.com/yandexdataschool/speech_course)
 12. Spoken Language Processing (CS224S, Stanford University) [link](https://web.stanford.edu/class/cs224s/semesters/2025-spring/syllabus)
+13. Speech Synthesis (Prof. Simon King, University of Edinburgh) [link](https://speech.zone/courses/speech-synthesis)
 
 # Supplementary courses
 1. x
