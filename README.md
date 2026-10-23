@@ -34,6 +34,7 @@
 18. Asteroid [link](https://github.com/asteroid-team/asteroid)
 19. ELAN [link](https://archive.mpi.nl/tla/elan)
 20. Hyperion [link](https://github.com/hyperion-ml/hyperion)
+21. Aalto Aparat [link](http://www.csd.uoc.gr/~hy578/2025/AaltoAparatInstaller_Win64bit.exe)
 
 # Dataset repositories
 1. OpenSLR [link](https://openslr.org/)
