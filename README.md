@@ -7,7 +7,8 @@
 4. Dialogue Systems UFAL [link](https://ufal.mff.cuni.cz/courses/npfl123/2024#lectures_)
 5. TTS [link](https://www.youtube.com/watch?v=_MFrEYPdEn8&t=628s)
 6. Automatic Speech Recognition [link](https://opencourse.inf.ed.ac.uk/asr/lectures)
-7. Speech Signal Processing, IIT Kanpur [link](http://ee627a.wikidot.com/)
+7. Speech Signal Processing (Prof. Rajesh Hegde, IIT Kanpur) [link](http://ee627a.wikidot.com/)
+8. Speech Technology (Prof. S. Umesh, IIT Madras) [link](https://study.iitm.ac.in/ds/course_pages/BSEE4001.html)
 
 # Books
 1. https://speechprocessingbook.aalto.fi/
