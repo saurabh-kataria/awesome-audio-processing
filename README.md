@@ -9,6 +9,13 @@
 6. Automatic Speech Recognition [link](https://opencourse.inf.ed.ac.uk/asr/lectures)
 7. Speech Signal Processing (Prof. Rajesh Hegde, IIT Kanpur) [link](http://ee627a.wikidot.com/)
 8. Speech Technology (Prof. S. Umesh, IIT Madras) [link](https://study.iitm.ac.in/ds/course_pages/BSEE4001.html)
+9. Advanced Topics in Speech Processing (Prof. K Sreenivasa Rao, IIT Kharagpur) [link](https://cse.iitkgp.ac.in/~ksrao/cou-atsp-2025.html)
+10. Deep Learning for Audio — AI Masters [link](https://github.com/severilov/DL-Audio-AIMasters-Course)
+11. YSDA Speech Processing Course [link](https://github.com/yandexdataschool/speech_course)
+12. Spoken Language Processing (CS224S, Stanford University) [link](https://web.stanford.edu/class/cs224s/semesters/2025-spring/syllabus)
+
+# Supplementary courses
+1. x
 
 # Books
 1. https://speechprocessingbook.aalto.fi/
