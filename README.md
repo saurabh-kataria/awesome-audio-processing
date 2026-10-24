@@ -1,5 +1,7 @@
 # awesome-audio-processing
 
+Contains speech and NLP resources. [INDIC] means related to 
+
 # Courses
 1. Speech Prosody UTEP (https://www.cs.utep.edu/nigel/prosody/)
 2. COMS 6998: Advanced Topics in Spoken Language Processing (http://www.cs.columbia.edu/~julia/courses/CS6998-23/syllabus23.html)
@@ -14,12 +16,16 @@
 11. YSDA Speech Processing Course [link](https://github.com/yandexdataschool/speech_course)
 12. Spoken Language Processing (CS224S, Stanford University) [link](https://web.stanford.edu/class/cs224s/semesters/2025-spring/syllabus)
 13. Speech Synthesis (Prof. Simon King, University of Edinburgh) [link](https://speech.zone/courses/speech-synthesis)
+14. Speech Processing (Prof. Mounya Elhilali, Johns Hopkins University)
 
 # Supplementary courses
-1. x
+1. Machine Learning for Signal Processing (Prof. Bhiksha Raj, Carnegie Mellon University)
 
 # Books
 1. https://speechprocessingbook.aalto.fi/
+
+# Supplementary books
+1. x
 
 # Softwares
 1. OpenFST
@@ -50,6 +56,13 @@
 3. Hugging face datasets
 
 # Datasets
-1. **AudioSet** - Gemmeke, Jort F., et al. "**Audio set: An ontology and human-labeled dataset for audio events**." 2017 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2017.
-2. **MSP-Podcast** - Lotfian, Reza, and Carlos Busso. "Building naturalistic emotionally balanced speech corpus by retrieving emotional speech from existing podcast recordings." IEEE Transactions on Affective Computing 10.4 (2017): 471-483.
-3. IndicVoices: Towards building an Inclusive Multilingual Speech Dataset for Indian Languages
+1. AudioSet
+2. MSP-Podcast
+3. MSP-Conversation
+4. [INDIC] IndicVoices: Towards building an Inclusive Multilingual Speech Dataset for Indian Languages
+5. [INDIC] Poseidon Numo Indic Speech Dataset [link](https://huggingface.co/datasets/psdn-ai/numo-indic-speech)
+6. [INDIC] VAANI (IISc) [link](https://huggingface.co/datasets/ARTPARK-IISc/Vaani)
+7. [INDIC] VAANI Noise Event Dataset (IIsc) [link](https://huggingface.co/datasets/ARTPARK-IISc/Vaani-Noise-Event-Dataset)
+
+# Models
+1. [INDIC] SraVaani (IISc) [link](https://huggingface.co/ARTPARK-IISc/SraVaani-1.0)
