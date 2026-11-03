@@ -21,6 +21,9 @@ Contains speech and NLP resources. [INDIC] means related to
 # Supplementary courses
 1. Machine Learning for Signal Processing (Prof. Bhiksha Raj, Carnegie Mellon University)
 
+# Tutorials
+1. x
+
 # Books
 1. https://speechprocessingbook.aalto.fi/
 
